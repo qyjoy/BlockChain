@@ -1,0 +1,7 @@
+{
+  "address": "",
+  "abi": [],
+  "explorerTxBaseUrl": "https://sepolia.etherscan.io/tx/",
+  "network": "11155111",
+  "networkName": "Sepolia Testnet"
+}
